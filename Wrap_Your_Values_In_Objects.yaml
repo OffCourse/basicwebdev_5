@@ -1,0 +1,32 @@
+curator: Charlotte
+goal: Wrap Your Values in Objects
+checkpoints:
+  - task: Understand Objects
+    resource-url: 'http://www.lostateminor.com/2014/07/03/fijians-create-amazing-traditional-masi-art/'
+  - task: Access Objects
+    resource-url: ''
+  - task: Manipulate Objects
+    resource-url:
+  - task: Relate Objects to JSON
+    resource-url: ''
+
+Objects
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#objects
+- https://developer.mozilla.org/en-US/docs/Glossary/object
+- https://www.freecodecamp.com/challenges/build-javascript-objects
+- https://www.freecodecamp.com/challenges/accessing-objects-properties-with-the-dot-operator
+- https://www.freecodecamp.com/challenges/accessing-objects-properties-with-bracket-notation
+- https://www.freecodecamp.com/challenges/accessing-objects-properties-with-variables
+- https://www.freecodecamp.com/challenges/updating-object-properties
+- https://www.freecodecamp.com/challenges/add-new-properties-to-a-javascript-object
+- https://www.freecodecamp.com/challenges/delete-properties-from-a-javascript-object
+- https://davidwalsh.name/javascript-objects
+
+Objects/Arrays vs. JSON
+- https://www.youtube.com/watch?v=wTONBRl5ouk
+- http://smoothprogramming.com/javascript/array-vs-object-vs-json-in-javascript/
+- https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/JSON
+
+Objects/Arrays vs. Maps
+- https://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map

@@ -1,0 +1,5 @@
+Curator: Charlotte
+goal: Create a To Do List
+checkpoints:
+  - task: Bring HTML, CSS and JavaScript Together
+    resource-url: 'http://www.w3schools.com/howto/howto_js_todolist.asp'
