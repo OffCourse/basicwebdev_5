@@ -1,0 +1,11 @@
+curator: charlotte
+goal: To Run or Not to Run with Conditionals
+checkpoinst:
+  - task: Understand Conditional Logic 
+    resourcde-url: 'https://www.youtube.com/watch?v=4Zxp2-_pLCE' or 'https://www.youtube.com/watch?v=im4WPHfeXA0'
+  - task: Control Behavior with If, Else and Else If
+    resource-url: 'https://www.javascript.com/learn/javascript/conditionals'
+  - task: Switch between Options
+    resource-url: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch'
+  - task: 'Don't Use Conditionals too Often'
+    resource-url: ??
