@@ -1,9 +1,0 @@
-curator: Charlotte
-goal: Link Your HTML, CSS and JavaScript
-checkpoints:
-  - task: Link to External CSS
-    resource-url: 'https://www.youtube.com/watch?v=y4gWr2fya0I'
-  - task: Link to External JavaScript
-    resource-url: 'https://www.youtube.com/watch?v=06oqCcAnyjc'
-
-Moet hier nog iets met frameworks/libraries bij?
