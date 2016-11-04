@@ -8,7 +8,7 @@ checkpoints:
   - task: Create an Object
     resource-url: 'https://www.freecodecamp.com/challenges/build-javascript-objects'
   - task: Work with Objects
-    resource-url: 'https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md'
+    resource-url: 'http://eloquentjavascript.net/06_object.html'
   - task: Relate JavaScript Objects to JSON
     resource-url: 'http://developers.squarespace.com/what-is-json/'
   - task: Review Objects
