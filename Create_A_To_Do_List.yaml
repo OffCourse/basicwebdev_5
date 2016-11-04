@@ -1,5 +1,12 @@
 Curator: Charlotte
-goal: Create a To Do List
+goal: Practice
 checkpoints:
-  - task: Bring HTML, CSS and JavaScript Together
+  - task: Practice and Become a Real Programmer
+    resource-url: 'https://www.wired.com/2014/09/exercism/'
+  - task: Replicate Websites in HTML and CSS 
+    resource-url: 'http://www.codeconquest.com/brush-up-on-your-html-and-css-by-replicating-another-website/'
+  - task: Build a To Do App with HTML, CSS and JavaScript 
     resource-url: 'http://www.w3schools.com/howto/howto_js_todolist.asp'
+  - task: Solve Practice Problems in JavaScript
+    resource-url: 'http://exercism.io/languages/javascript/exercises'
+  
