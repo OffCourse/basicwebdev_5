@@ -4,7 +4,7 @@ checkpoints:
   - task: Understand Objects in General
     resource-url: 'http://www.lostateminor.com/2014/07/03/fijians-create-amazing-traditional-masi-art/'
   - task: Understand Objects in Programming
-    resource-url: 'http://www.selftaughtjs.com/javascript-101-introduction-to-datatypes/'
+    resource-url: 'https://www.javascript.com/learn/javascript/objects'
   - task: Create an Object
     resource-url: 'https://www.freecodecamp.com/challenges/build-javascript-objects'
   - task: Work with Objects
