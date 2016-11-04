@@ -1,5 +1,5 @@
 Curator: Charlotte
-goal: Practice
+goal: Practice HTML, CSS and JavaScript
 checkpoints:
   - task: Practice and Become a Real Programmer
     resource-url: 'https://www.wired.com/2014/09/exercism/'
@@ -9,4 +9,6 @@ checkpoints:
     resource-url: 'http://www.w3schools.com/howto/howto_js_todolist.asp'
   - task: Solve Practice Problems in JavaScript
     resource-url: 'http://exercism.io/languages/javascript/exercises'
+  - task: Show Your Work on GitHub
+    resource-url: 'http://platform.offcourse.io/users/yeehaa/courses/show-your-work-on-github'
   
