@@ -8,4 +8,4 @@ checkpoints:
   - task: Ride with Handlebars
     resource-url: 'https://www.sitepoint.com/a-beginners-guide-to-handlebars/'
   - task: Play with a Template
-    resource-url: ''
+    resource-url: 'http://codepen.io/cevoostrum/pen/vyYpxJ'
