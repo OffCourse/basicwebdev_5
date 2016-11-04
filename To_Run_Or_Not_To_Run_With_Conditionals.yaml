@@ -11,5 +11,5 @@ checkpoinst:
     resource-url: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch'
   - task: Practice Switching
     resource-url: 'https://www.freecodecamp.com/challenges/selecting-from-many-options-with-switch-statements'
-  - task: 'Don't Use Conditionals too Often'
+  - task: 'Don't Use Conditionals Too Often'
     resource-url: ??
