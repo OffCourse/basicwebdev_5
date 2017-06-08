@@ -5,7 +5,7 @@ checkpoints:
   - task: Create an Object
     resource-url: 'https://www.freecodecamp.com/challenges/build-javascript-objects/'
   - task: Work with Objects
-    resource-url: 'http://eloquentjavascript.net/06_object.html/'
+    resource-url: 'http://eloquentjavascript.net/06_object.html'
   - task: Relate JavaScript Objects to JSON
     resource-url: 'http://developers.squarespace.com/what-is-json/'
   - task: Review Objects
